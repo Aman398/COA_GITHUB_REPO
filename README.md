@@ -71,5 +71,11 @@ This repo is created to contain the implementation of *KAWS: Coordinate Kernel-A
 |               | gto           | 103.42  | 100.73 |           
 |               | KAWS          | 105.71  | 100.56 |
 
-# Graph
+# Performance Graphs
+
+**IPC**
 ![Screenshot 2023-11-10 011746](https://github.com/Aman398/COA_GITHUB_REPO/assets/94309830/31558663-1f33-4730-954f-f7938a5faecb)
+
+**gpu_tot_sim_cycle**
+![Screenshot 2023-11-10 014735](https://github.com/Aman398/COA_GITHUB_REPO/assets/94309830/9383744f-01ad-4675-8063-1f777b829746)
+
