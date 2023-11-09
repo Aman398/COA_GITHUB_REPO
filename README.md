@@ -27,13 +27,7 @@ This repo is created to contain the implementation of *KAWS: Coordinate Kernel-A
 |               | KAWS          | 22.64   | 21.81  |                    
 | NN            | lrr           | 186.45  | 177.91 |           
 |               | gto           | 185.42  | 176.2  |           
-|               | KAWS          | 183.54  | 173.31 |           
-| GMM           | lrr           | 69.47   | 67.01  |           
-|               | gto           | 72.16   | 67.13  |           
-|               | KAWS          | 75.61   | 67.3   |           
-| SMM           | lrr           | 143.21  | 142.01 |           
-|               | gto           | 148.59  | 142.11 |           
-|               | KAWS          | 152.56  | 142.8  |           
+|               | KAWS          | 183.54  | 173.31 |                   
 
 
 # Normalised to LRR
@@ -60,22 +54,15 @@ This repo is created to contain the implementation of *KAWS: Coordinate Kernel-A
 |               | KAWS          | 100     | 98.64  |            
 | NN            | lrr           | 100     | 100    |            
 |               | gto           | 99.44   | 98.92  |            
-|               | KAWS          | 98.43   | 97.41  |            
-| GMM           | lrr           | 100     | 100    |            
-|               | gto           | 103.87  | 100.17 |            
-|               | KAWS          | 108.83  | 100.43 |            
-| SMM           | lrr           | 100     | 100    |            
-|               | gto           | 103.75  | 100.07 |            
-|               | KAWS          | 106.52  | 100.55 |    
+|               | KAWS          | 98.43   | 97.41  |               
 | AVERAGE       | lrr           | 100     | 100    |   
-|               | gto           | 103.42  | 100.73 |           
-|               | KAWS          | 105.71  | 100.56 |
+|               | gto           | 103.30  | 100.91 |           
+|               | KAWS          | 105.15  | 100.58 |
 
 # Performance Graphs
 
-**IPC**
-![Screenshot 2023-11-10 011746](https://github.com/Aman398/COA_GITHUB_REPO/assets/94309830/31558663-1f33-4730-954f-f7938a5faecb)
+![Screenshot 2023-11-10 023431](https://github.com/Aman398/COA_GITHUB_REPO/assets/94309830/4de969ff-7355-42d1-a529-b2bef3950da1)
 
-**gpu_tot_sim_cycle**
 ![Screenshot 2023-11-10 014735](https://github.com/Aman398/COA_GITHUB_REPO/assets/94309830/9383744f-01ad-4675-8063-1f777b829746)
 
+![Screenshot 2023-11-10 022501](https://github.com/Aman398/COA_GITHUB_REPO/assets/94309830/fe8f4626-6e74-427d-82fd-63759057d790)
