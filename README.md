@@ -61,8 +61,8 @@ This repo is created to contain the implementation of *KAWS: Coordinate Kernel-A
 
 # Performance Graphs
 
-![Screenshot 2023-11-10 023431](https://github.com/Aman398/COA_GITHUB_REPO/assets/94309830/4de969ff-7355-42d1-a529-b2bef3950da1)
+![Screenshot 2023-11-10 023431](https://github.com/Aman398/COA_GITHUB_REPO/assets/94309830/74d9505d-a268-4c10-886f-9056f162940c)
 
-![Screenshot 2023-11-10 014735](https://github.com/Aman398/COA_GITHUB_REPO/assets/94309830/9383744f-01ad-4675-8063-1f777b829746)
+![Screenshot 2023-11-10 022501](https://github.com/Aman398/COA_GITHUB_REPO/assets/94309830/0dbb9123-5776-4a7c-adf3-7d34d6b8780c)
 
-![Screenshot 2023-11-10 022501](https://github.com/Aman398/COA_GITHUB_REPO/assets/94309830/fe8f4626-6e74-427d-82fd-63759057d790)
+![Screenshot 2023-11-10 014735](https://github.com/Aman398/COA_GITHUB_REPO/assets/94309830/73623eb3-7bfa-4af7-9214-912ccec323e3)
